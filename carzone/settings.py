@@ -148,8 +148,4 @@ MESSAGE_TAGS = {
 SITE_ID = 1
 
 
-EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_PORT = 587
-EMAIL_HOST_USER = 'carzone.project@gmail.com'
-EMAIL_HOST_PASSWORD = 'moh4mm4d580'
-EMAIL_USE_TLS = True
+
